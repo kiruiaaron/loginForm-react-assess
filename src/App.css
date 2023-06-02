@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50%;
+  margin: 50px auto;
+  border: 1px solid grey;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.form input{
+  width: 80%;
+  padding: 1em;
+  margin: 1em;
+}
+.form button{
+  text-align: center;
+  width: 15%;
+  background-color: black;
+  color: #fff;
+  margin: 1em;
+  padding: .5em;
+}
